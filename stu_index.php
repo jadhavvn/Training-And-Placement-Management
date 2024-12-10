@@ -22,12 +22,12 @@ session_start();
 
 <head>
 	<meta charset="utf-8">
-	<title>Wallet - Payday Loan Service Template</title>
+	<title>Student Login -<?php echo $sname[2]?> </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 	<meta name="description" content="This is meta description">
 	<meta name="author" content="Themefisher">
-	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-	<link rel="icon" href="images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="Admin/assets/img/logo_clg.png" type="image/x-icon">
+	<link rel="icon" href="Admin/assets/img/logo_clg.png" type="image/x-icon">
 
 	<!-- # Google Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,7 +51,7 @@ session_start();
 	<nav class="navbar navbar-expand-xl navbar-light text-center py-3">
 		<div class="container">
 			<a class="navbar-brand" href="index.html">
-				<img loading="prelaod" decoding="async" class="img-fluid" width="160" src="images/logo.png" alt="Wallet">
+				<img loading="prelaod" decoding="async" class="img-fluid" width="160" src="Admin/assets/img/logo_clg.png" alt="Colleges">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
 			</button>

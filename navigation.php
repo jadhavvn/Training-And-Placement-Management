@@ -11,12 +11,11 @@
 				<ul class="navbar-nav mx-auto mb-2 mb-lg-0">
 					<li class="nav-item"> <a class="nav-link" href="index.php">Home</a>
 					</li>
-					<li class="nav-item "> <a class="nav-link" href="about.php">About</a>
+					<li class="nav-item "> <a class="nav-link" href="#about">About</a>
+					</li>
+					<li class="nav-item"> <a class="nav-link" href="#services">Our Services</a>
 					</li>
 					<li class="nav-item "> <a class="nav-link" href="stu_login.php">Job Openings</a>
-					</li>
-					
-					<li class="nav-item "> <a class="nav-link" href="contact.php">Contact</a>
 					</li>
 					<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">For college</a>
 						<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
