@@ -1,4 +1,4 @@
-Training and Placement Management System
+<b>Training and Placement Management System<b>
 
 📌 Project Overview
 
