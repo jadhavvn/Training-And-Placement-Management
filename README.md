@@ -49,3 +49,8 @@ The Training and Placement Management System is a web-based platform designed to
     <li><strong>Student & HOD Dashboard:</strong> Students track applications, while HODs monitor student progress and approve profiles.</li>
     <li><strong>Admin Control & Reports:</strong> Admins manage users, placements, notifications, and generate placement reports.</li>
 </ul>
+
+
+<h1>Project Screenshot:</h1>
+
+![Image](https://github.com/user-attachments/assets/0b1bb66e-a021-4bca-ac8d-5a4f456e7b6e)
