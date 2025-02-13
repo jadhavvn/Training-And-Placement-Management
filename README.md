@@ -54,3 +54,27 @@ The Training and Placement Management System is a web-based platform designed to
 <h1>Project Screenshot:</h1>
 
 ![Image](https://github.com/user-attachments/assets/0b1bb66e-a021-4bca-ac8d-5a4f456e7b6e)
+
+![Image](https://github.com/user-attachments/assets/116915f8-9e6a-4d45-a3d9-cdcf685918a2)
+
+![Image](https://github.com/user-attachments/assets/b97912b8-faf5-470f-b0b9-12d85255db93)
+
+![Image](https://github.com/user-attachments/assets/9ed306bf-f934-431e-b384-4654cd6be91b)
+
+![Image](https://github.com/user-attachments/assets/ec9607a2-de93-434b-b02b-efcce94c4e51)
+
+![Image](https://github.com/user-attachments/assets/59eee829-a370-4b88-b55a-83866e858839)
+
+![Image](https://github.com/user-attachments/assets/145e62b9-450e-4850-85cb-26c06968cbbc)
+
+![Image](https://github.com/user-attachments/assets/1ffd0651-0ebc-4498-a8f6-b079c8a8f3dc)
+
+![Image](https://github.com/user-attachments/assets/07984e6e-6d30-4ccf-b924-20987fcb9a32)
+
+![Image](https://github.com/user-attachments/assets/37e11ebf-c611-44ee-89a1-87fb26c13c31)
+
+![Image](https://github.com/user-attachments/assets/5efc5a59-4bcd-408a-8494-377551ac2ea6)
+
+![Image](https://github.com/user-attachments/assets/961a9632-dff2-4364-8b96-5ac101b11d13)
+
+![Image](https://github.com/user-attachments/assets/877426b7-e5f0-4c11-97ae-b9306f1075eb)
